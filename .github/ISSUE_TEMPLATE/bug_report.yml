@@ -1,0 +1,24 @@
+name: Bug report
+description: IM.ContentSecurityPolicy does not work as documented.
+labels: [bug]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Package version
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Umbraco and .NET versions
+      placeholder: Umbraco 17.7.1, .NET 10
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened
+      description: Steps to reproduce, what you expected and what happened instead. Include the relevant configuration and error messages, without secrets.
+    validations:
+      required: true

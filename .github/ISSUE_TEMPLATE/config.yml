@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Question or idea
+    url: https://github.com/Idea-Makers/im-contentsecuritypolicy/discussions
+    about: Ask questions and discuss ideas in Discussions.
+  - name: Security vulnerability
+    url: https://github.com/Idea-Makers/im-contentsecuritypolicy/security/advisories/new
+    about: Report vulnerabilities privately, not in a public issue.
