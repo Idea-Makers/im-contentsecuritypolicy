@@ -212,4 +212,3 @@ app.UseWhen(
 Free for private and commercial use under the [IM.ContentSecurityPolicy License](https://github.com/Idea-Makers/im-contentsecuritypolicy/blob/main/LICENSE.md):
 no modification, distribution only as part of your website or application, and a commercial
 website or application shows "Uses IM.ContentSecurityPolicy by Idea Makers" with a link to https://ideamakers.pl.
-Versions up to 2.0.2 are MIT licensed.
