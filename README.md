@@ -1,5 +1,7 @@
 # IM.ContentSecurityPolicy
 
+[![NuGet](https://img.shields.io/nuget/v/IM.ContentSecurityPolicy.svg)](https://www.nuget.org/packages/IM.ContentSecurityPolicy)
+
 Content Security Policy (CSP) headers and per-request nonces for ASP.NET Core and Umbraco CMS 13 to 18.
 
 The package:
@@ -15,19 +17,21 @@ It targets net8.0 and runs on .NET 8, 9 and 10. It references `Umbraco.Cms.Core`
 > [issue tracker](https://github.com/Idea-Makers/im-contentsecuritypolicy/issues) and ask questions in
 > [Discussions](https://github.com/Idea-Makers/im-contentsecuritypolicy/discussions).
 
-| Umbraco | .NET |
-|---------|------|
-| 13, 14  | 8    |
-| 15, 16  | 9    |
-| 17, 18  | 10   |
+| Umbraco          | .NET |
+|------------------|------|
+| 13 (13.1.1+), 14 | 8    |
+| 15, 16           | 9    |
+| 17, 18           | 10   |
 
-For Umbraco 10 to 12 use version 1.0.2.
+For Umbraco 10 to 12, use [version 1.0.2](https://www.nuget.org/packages/IM.ContentSecurityPolicy/1.0.2).
 
 ## Installation
 
 ```bash
 dotnet add package IM.ContentSecurityPolicy
 ```
+
+See [GitHub Releases](https://github.com/Idea-Makers/im-contentsecuritypolicy/releases) for release notes.
 
 ## Setup
 
