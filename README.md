@@ -17,6 +17,8 @@ It targets net8.0 and runs on .NET 8, 9 and 10. It references `Umbraco.Cms.Core`
 > [issue tracker](https://github.com/Idea-Makers/im-contentsecuritypolicy/issues) and ask questions in
 > [Discussions](https://github.com/Idea-Makers/im-contentsecuritypolicy/discussions).
 
+**Documentation:** [https://ideamakers.pl/en/nuget/im-contentsecuritypolicy/](https://ideamakers.pl/en/nuget/im-contentsecuritypolicy/)
+
 | Umbraco          | .NET |
 |------------------|------|
 | 13 (13.1.1+), 14 | 8    |
